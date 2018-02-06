@@ -1,4 +1,13 @@
-# Field-Mill
-Electrical, mechanical and software design
+# Electric Field Mill
+This repository contains a bunch of images I took over the
+course of building my electric field mill. I built it during
+my senior year of highschool and was more concerned with 
+learning than I was with documenting anything so all I have
+is these pictures and some of the programs. I still have the
+device but I need to fix the sloow rate of the integrating
+op-amp to have accurate electric field readings. It can measure
+slowly changing electric fields very accuratly, but quickly
+changing electric fields can be difficult to measure. 
 
-This repository includes all or most of what is needed to build your own field mill. Items included are the stl files for the mechanical design of the field mill, documentation, and firmware for you filed mill. 
+The images in this repository should give a fairly good idea
+of what I did.
