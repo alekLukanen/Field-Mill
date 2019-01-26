@@ -14,3 +14,5 @@ The images in this repository should give a fairly good idea
 of what I did. If there is enought interest I will upload the
 STL files and include a few notes on how I designed the 
 field mill.
+
+Images to look at: IMG_0256.jpg, IMG_0253.jpg and IMG_0239.jpg.
